@@ -17,3 +17,6 @@ Arrow can be dragged with the middle mouse button.
 Boss Arrow tracks all world bosses and dungeon bosses in a zone and points you to the closest one.
 Chat notifies you what bosses are currently spawned and which boss is being tracked, it also notifies you when a boss has spawned so youre 
 never left wondering. When no bosses are present the arrow disappears to avoid screen clutter.
+
+
+Update: BuiltinTurnOFF.dll - Disables the ingame default meter
