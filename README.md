@@ -19,4 +19,4 @@ Chat notifies you what bosses are currently spawned and which boss is being trac
 never left wondering. When no bosses are present the arrow disappears to avoid screen clutter.
 
 
-Update: BuiltinTurnOFF.dll - Disables the ingame default meter
+
