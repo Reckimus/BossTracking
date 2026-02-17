@@ -1,6 +1,6 @@
 # BossTracking
 Boss GPS system
-
+update: F3 now brings up a list of Tracked targets in the zone and can be clicked to track a target specifically
 Install BepInEx 5 (x64) (If you havent already)
 
 Download the latest “BepInEx_x64_5.xx.xx.zip” from the official GitHub releases.
